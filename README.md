@@ -1,6 +1,3 @@
-# university-course-selection-system
-A Python program to assist universities in streamlining course selection for students based on their completed units, gender, and semester. This system evaluates student records and provides course recommendations for future enrollment.
-
 # University Course Selection System
 
 This repository contains a Python program designed to help universities manage and recommend courses for students based on their enrollment history, gender, and semester. The program simplifies the process by evaluating a student's completed units and suggesting available courses for the upcoming semester.
